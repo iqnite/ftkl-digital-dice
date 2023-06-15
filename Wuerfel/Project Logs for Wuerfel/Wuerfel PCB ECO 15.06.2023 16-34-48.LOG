@@ -1,0 +1,123 @@
+Added Component: Designator=IC2(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Counter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Gate 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Gate 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Gate 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Gate 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(DIP14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "TI Logic Gate 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INA Pin=IC2-1
+Added Pin To Net: NetName=INA Pin=IC2-2
+Added Pin To Net: NetName=INB Pin=IC2-3
+Added Pin To Net: NetName=VCC Pin=IC2-5
+Added Pin To Net: NetName=INC Pin=IC2-8
+Added Pin To Net: NetName=INB Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC2-10
+Added Pin To Net: NetName=INA Pin=IC2-12
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-5
+Added Pin To Net: NetName=NetC3_2 Pin=IC3-6
+Added Pin To Net: NetName=GND Pin=IC3-7
+Added Pin To Net: NetName=NetIC3_8 Pin=IC3-8
+Added Pin To Net: NetName=NetIC3_9 Pin=IC3-9
+Added Pin To Net: NetName=NetC3_2 Pin=IC3-10
+Added Pin To Net: NetName=NetIC2_14 Pin=IC3-11
+Added Pin To Net: NetName=NetIC3_8 Pin=IC3-12
+Added Pin To Net: NetName=NetIC3_8 Pin=IC3-13
+Added Pin To Net: NetName=VCC Pin=IC3-14
+Added Pin To Net: NetName=OUT4 Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_6 Pin=IC4-6
+Added Pin To Net: NetName=GND Pin=IC4-7
+Added Pin To Net: NetName=OUT5 Pin=IC4-8
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_10 Pin=IC4-10
+Added Pin To Net: NetName=NetIC4_11 Pin=IC4-11
+Added Pin To Net: NetName=OUT5 Pin=IC4-12
+Added Pin To Net: NetName=OUT5 Pin=IC4-13
+Added Pin To Net: NetName=VCC Pin=IC4-14
+Added Pin To Net: NetName=INC Pin=IC5-1
+Added Pin To Net: NetName=INC Pin=IC5-2
+Added Pin To Net: NetName=NetIC4_11 Pin=IC5-5
+Added Pin To Net: NetName=NetIC5_6 Pin=IC5-6
+Added Pin To Net: NetName=GND Pin=IC5-7
+Added Pin To Net: NetName=NetIC4_5 Pin=IC5-8
+Added Pin To Net: NetName=INB Pin=IC5-9
+Added Pin To Net: NetName=INB Pin=IC5-10
+Added Pin To Net: NetName=NetIC4_10 Pin=IC5-11
+Added Pin To Net: NetName=INA Pin=IC5-12
+Added Pin To Net: NetName=INA Pin=IC5-13
+Added Pin To Net: NetName=VCC Pin=IC5-14
+Added Pin To Net: NetName=INA Pin=IC6-1
+Added Pin To Net: NetName=INC Pin=IC6-2
+Added Pin To Net: NetName=OUT1 Pin=IC6-6
+Added Pin To Net: NetName=GND Pin=IC6-7
+Added Pin To Net: NetName=NetIC4_10 Pin=IC6-9
+Added Pin To Net: NetName=INB Pin=IC6-10
+Added Pin To Net: NetName=OUT2 Pin=IC6-11
+Added Pin To Net: NetName=NetIC4_6 Pin=IC6-13
+Added Pin To Net: NetName=VCC Pin=IC6-14
+Added Pin To Net: NetName=INB Pin=IC7-1
+Added Pin To Net: NetName=INA Pin=IC7-2
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-3
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-4
+Added Pin To Net: NetName=NetIC7_5 Pin=IC7-5
+Added Pin To Net: NetName=OUT3 Pin=IC7-6
+Added Pin To Net: NetName=GND Pin=IC7-7
+Added Pin To Net: NetName=OUT6 Pin=IC7-8
+Added Pin To Net: NetName=NetIC5_6 Pin=IC7-9
+Added Pin To Net: NetName=NetIC5_6 Pin=IC7-10
+Added Pin To Net: NetName=NetIC7_5 Pin=IC7-11
+Added Pin To Net: NetName=NetIC4_10 Pin=IC7-12
+Added Pin To Net: NetName=INC Pin=IC7-13
+Added Pin To Net: NetName=VCC Pin=IC7-14
+Added Pin To Net: NetName=NetIC4_1 Pin=IC4-1
+Added Pin To Net: NetName=NetIC4_1 Pin=IC4-2
+Added Pin To Net: NetName=NetIC4_1 Pin=IC6-3
+Added Pin To Net: NetName=NetIC4_1 Pin=IC6-4
+Added Pin To Net: NetName=NetIC4_1 Pin=IC6-12
+Added Net: Name=NetIC4_1
+Added Pin To Net: NetName=NetIC4_4 Pin=IC4-4
+Added Pin To Net: NetName=NetIC4_4 Pin=IC5-3
+Added Pin To Net: NetName=NetIC4_4 Pin=IC5-4
+Added Net: Name=NetIC4_4
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-8
+Added Net: Name=NetIC6_5
+Added Member To Class: ClassName=Wuerfel Member=Component IC2 SN74LS93
+Added Member To Class: ClassName=Wuerfel Member=Component IC3 SN74LS00
+Added Member To Class: ClassName=Wuerfel Member=Component IC4 SN74LS00
+Added Member To Class: ClassName=Wuerfel Member=Component IC5 SN74LS00
+Added Member To Class: ClassName=Wuerfel Member=Component IC6 SN74LS00
+Added Member To Class: ClassName=Wuerfel Member=Component IC7 SN74LS00
