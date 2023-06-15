@@ -1,0 +1,8 @@
+Added Component: Designator=D3(D_DO41-RM4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D3-A
+Added Pin To Net: NetName=NetC1_2 Pin=D3-C
+Added Member To Class: ClassName=Wuerfel Member=Component D3 1N4002
