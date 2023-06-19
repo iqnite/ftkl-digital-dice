@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=INC Pin=IC6-2
+Change Component Kind : Designator=R12 Old Kind=Jumper New Kind=Standard
+Added Pin To Net: NetName=INC Pin=IC7-13
+Added Pin To Net: NetName=NetIC6_2 Pin=IC6-2
+Added Pin To Net: NetName=NetIC6_2 Pin=R12-1
+Added Net: Name=NetIC6_2

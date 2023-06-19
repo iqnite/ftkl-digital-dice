@@ -1,0 +1,8 @@
+Added Component: Designator=R12(R_0207/RM4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC6_2 Pin=R12-1
+Added Pin To Net: NetName=INC Pin=R12-2
+Added Member To Class: ClassName=Wuerfel Member=Component R12 1
