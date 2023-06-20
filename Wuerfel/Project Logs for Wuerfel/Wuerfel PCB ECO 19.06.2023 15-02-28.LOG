@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=IC2-10
+Removed Pin From Net: NetName=GND Pin=R10-1
+Added Component: Designator=R13(R_0207/RM4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_10 Pin=R10-1
+Added Pin To Net: NetName=NetIC2_10 Pin=R13-1
+Added Net: Name=NetIC2_10
+Added Member To Class: ClassName=Wuerfel Member=Component R13 1
