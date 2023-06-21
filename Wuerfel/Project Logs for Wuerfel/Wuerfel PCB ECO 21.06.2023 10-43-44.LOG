@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetIC4_6 Pin=R11-2
+Removed Pin From Net: NetName=INC Pin=R12-2
+Removed Pin From Net: NetName=INB Pin=R13-2
+Removed Pin From Net: NetName=INA Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=Wuerfel Member=R11
+Removed Member From Class: ClassName=Wuerfel Member=R12
+Removed Member From Class: ClassName=Wuerfel Member=R13
+Removed Member From Class: ClassName=Wuerfel Member=R14
+Removed Member From Class: ClassName=Wuerfel Member=R15
+Added Pin To Net: NetName=GND Pin=IC2-10
+Added Pin To Net: NetName=INA Pin=IC6-1
+Added Pin To Net: NetName=INC Pin=IC6-2
+Added Pin To Net: NetName=INB Pin=IC6-10
+Added Pin To Net: NetName=NetIC4_6 Pin=IC6-13
+Added Pin To Net: NetName=GND Pin=R10-1
