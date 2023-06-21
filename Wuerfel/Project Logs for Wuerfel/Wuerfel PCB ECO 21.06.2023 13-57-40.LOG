@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Added Component: Designator=C2(C_POL_RM2-8,5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2
+Added Member To Class: ClassName=Wuerfel Member=Component C4 1nF
