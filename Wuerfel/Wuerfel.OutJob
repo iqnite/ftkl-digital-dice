@@ -116,7 +116,7 @@ Configuration5_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full
 Configuration5_Name9=OutputConfigurationParameter9
 Configuration5_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name10=OutputConfigurationParameter10
-Configuration5_Item10=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom Layer (Dokumentation, gespiegelt)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
+Configuration5_Item10=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Bottom Layer (Dokumentation)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name11=OutputConfigurationParameter11
 Configuration5_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name12=OutputConfigurationParameter12
@@ -132,7 +132,7 @@ Configuration5_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 Configuration5_Name17=OutputConfigurationParameter17
 Configuration5_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name18=OutputConfigurationParameter18
-Configuration5_Item18=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=True|Name=Bohrplan (gespiegelt)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
+Configuration5_Item18=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=False|Name=Bohrplan|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name19=OutputConfigurationParameter19
 Configuration5_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\iqnit\OneDrive\Documenti\School\FTKL\04_Wuerfel\ftkl-digital-dice\Wuerfel\Wuerfel.PcbDoc
 Configuration5_Name20=OutputConfigurationParameter20
@@ -185,7 +185,7 @@ PcbPrintPreferences6=
 [PublishSettings]
 OutputFilePath1=
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for Free Documents
+OutputBasePath1=Project Outputs for Wuerfel
 OutputPathMedia1=
 OutputPathMediaValue1=
 OutputPathOutputer1=[Output Name]
@@ -212,7 +212,7 @@ PDFACompliance1=Disabled
 PDFVersion1=Default
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for Wuerfel
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
