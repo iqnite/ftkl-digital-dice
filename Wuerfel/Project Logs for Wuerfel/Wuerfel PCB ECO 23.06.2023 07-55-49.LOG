@@ -1,0 +1,42 @@
+Change Component Comment : Designator=R1 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R2 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R3 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R4 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R5 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R6 Old Comment=47 New Comment=330
+Change Component Comment : Designator=R7 Old Comment=47 New Comment=330
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_0207/RM4"; UniqueID = "\WBHNSVJZ" ("\WBHNSVJZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_0207/RM4"; UniqueID = "\QTBCRRSI" ("\QTBCRRSI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_0207/RM4"; UniqueID = "\ERSCLUAZ" ("\ERSCLUAZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_0207/RM4"; UniqueID = "\HPEIFPNI" ("\HPEIFPNI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R_0207/RM4"; UniqueID = "\GODNSMZU" ("\GODNSMZU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_0207/RM4"; UniqueID = "\SKVZDAZH" ("\SKVZDAZH")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_0207/RM4"; UniqueID = "\VUHPVZBE" ("\VUHPVZBE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
